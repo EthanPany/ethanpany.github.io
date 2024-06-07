@@ -16,10 +16,10 @@ The workshop for **CSC 173: Data Structures and Algorithms** is designed to **re
 My focus in this course is to **present concepts clearly** so students can understand them easily without needing to memorize. For example, quicksort might confuse students regarding why it is preferred over merge sort, its Big O notation, and how to choose the pivot element. Instead of rote memorization, I use **audio and visual aids** with online tools to ensure students grasp the concepts thoroughly and can confidently apply them in exams.
 
 
-<img src="https://p.ipic.vip/4hdia2.jpg" alt="workshop_member" width="200"/>
+<img src="https://p.ipic.vip/4hdia2.jpg" alt="workshop_member" width="50%"/>
 
 
 Another focus is **student interaction**. The workshop is designed to be different from lectures, allowing students to talk freely with each other and solve problems in pairs or small groups. Rather than traditional teaching, we ask students questions and let them research and explain to each other before providing solutions. Through these workshops, I have learned to ask valuable questions and keep students engaged. Additionally, I conducted an experiment on the effectiveness of short study breaks during the workshop, which provided a unique learning experience.
 
-<img src="https://p.ipic.vip/j8fw1r.png" alt="The affect of break on TLC workshop (4096 x 3072 px)" width="200"/>
+<img src="https://p.ipic.vip/j8fw1r.png" alt="The affect of break on TLC workshop (4096 x 3072 px)" width="50%"/>
 
