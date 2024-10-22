@@ -9,6 +9,36 @@ category: fun
 
 Change something to see
 
+**Calglass** is a groundbreaking wearable device designed to help users achieve **better health through smart dietary management**. It was developed as a response to the growing number of people struggling to maintain healthy eating habits, with many mistakenly believing that **exercise alone** is the most effective way to stay fit. Calglass combines **computer vision** and **AI algorithms** to recognize foods and calculate **caloric content**, providing users with **actionable insights** to improve their diets.
+
+### Inspiration
+The idea for Calglass originated from the observation that **unhealthy eating habits** contribute significantly to conditions like **obesity** and **heart disease**. The team noticed that existing dietary management solutions, such as **mobile apps**, often require extensive manual input and can be inaccurate. Inspired by this gap, Calglass aims to offer a **more efficient, real-time solution** by automatically analyzing food intake through wearable glasses.
+
+### Development Journey
+#### Early Stages
+The project began with extensive **research and brainstorming**, aiming to find a practical way to integrate **AI** into dietary management. The team recognized that using a **wearable device** could provide the **convenience and real-time analysis** needed to help people make healthier choices effortlessly.
+
+### Hardware
+Calglass was built using a combination of hardware components:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3493.jpg" title="3D Model of Calglass" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3482.jpg" title="Calglass Prototype" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3483.jpg" title="Calglass Prototype in Use" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+- **Camera and Gyroscope**: These allow for **real-time image capture and stabilization** during food recognition.
+- **Raspberry Pi**: The main computing unit, which runs the **food recognition algorithms**.
+- **3D Modeling and Printing**: The frame of the glasses was custom-designed, **3D-printed**, and **assembled** by the team.
+
+
+
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
