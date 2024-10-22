@@ -6,6 +6,7 @@ img: assets/img/proj_home/Snipaste_2024-10-21_23-44-18.png
 importance: 4
 category: fun
 ---
+
 **Our Home and What It Means to Us** is an interactive game that explores the concept of **home and belonging**, now enhanced with **AI integration**. The project delves into the different ways that **home can be experienced**, not just as a physical space but also as a feeling of **comfort, support, and identity**. The game encourages players to **reflect on their own experiences** of home through an engaging, story-driven experience, enriched with **philosophical AI dialogues**.
 
 ### AI Integration: Exploring the Intersection of Technology and Humanities
