@@ -2,10 +2,11 @@
 layout: page
 title: Calglass
 description: Innovative wearable technology for healthy living
-img: assets/img/proj_sliGen/11-31-38-0006.png
+img: assets/img/proj_calGlass/IMG3482.jpg
 importance: 3
 category: fun
 ---
+
 **Calglass** is a groundbreaking wearable device designed to help users achieve **better health through smart dietary management**. It was developed as a response to the growing number of people struggling to maintain healthy eating habits, with many mistakenly believing that **exercise alone** is the most effective way to stay fit. Calglass combines **computer vision** and **AI algorithms** to recognize foods and calculate **caloric content**, providing users with **actionable insights** to improve their diets.
 
 ### Inspiration
@@ -98,13 +99,13 @@ The team aims to enhance Calglass by incorporating:
 
 You can find the **detailed report** and **presentation slides** below:
 
-<a href="assets/pdf/proj_calGlass/CTB_CalGlass_Group_Final_Report.pdf">Final Report (PDF)</a>
-<a href="assets/pdf/proj_calGlass/Calglass_Presentation.pdf">Presentation Slides (PDF)</a>
-<a href="assets/pdf/proj_calGlass/Calglass_Presentation2.pdf">Presentation Slides2 (PDF)</a>
+<a href="../../assets/pdf/proj_calGlass/CTB_CalGlass_Group_Final_Report.pdf">Final Report (PDF)</a>
+<a href="../../assets/pdf/proj_calGlass/Calglass_Presentation.pdf">Presentation Slides (PDF)</a>
+<a href="../../assets/pdf/proj_calGlass/Calglass_Presentation2.pdf">Presentation Slides2 (PDF)</a>
 
 #### Watch the Demonstration Video
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1dT4y1D7vb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1dT4y1D7vb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:100%; height:600px"> </iframe>
 
 ---
 

@@ -31,10 +31,10 @@ I believe that studying a **diverse range of subjects** provides valuable insigh
 **Delivering the future!** -->
 
 
-I’m a **sophomore studying Computer Science** (B.S.) at the  **University of Wisconsin-Madison** . I have a broad interest in  **natural language processing (NLP)** , with a research goal of exploring the **capabilities and limitations** of current models. I’m also passionate about finding **innovative ways to integrate artificial intelligence** into various fields, tackling  **traditional tasks that are challenging for computers** .
+I’m a sophomore studying Computer Science (B.S.) at the  University of Wisconsin-Madison . I have a broad interest in  natural language processing (NLP) , with a research goal of exploring the capabilities and limitations of current models. I’m also passionate about finding innovative ways to integrate artificial intelligence into various fields, tackling  traditional tasks that are challenging for computers .
 
-Beyond computer science, I’m interested in **astronomy, brain and cognitive science,** and  **philosophy** —subjects that I’m currently exploring through my coursework. I plan to  **double major in Computer Engineering** , aiming to expand my technical expertise. My extracurricular activities include **movie production, 3D computer graphics,** and **IoT** projects, all of which fuel my creativity and problem-solving skesteills.
+Beyond computer science, I’m interested in astronomy, brain and cognitive science, and  philosophy —subjects that I’m currently exploring through my coursework. I plan to  double major in Computer Engineering , aiming to expand my technical expertise. My extracurricular activities include movie production, 3D computer graphics, and IoT projects, all of which fuel my creativity and problem-solving skesteills.
 
-I believe that studying a **diverse range of subjects** provides valuable insights into the  **potential applications of technology** , allowing me to approach problem-solving in **unique ways** and  **improve people’s lives** .
+I believe that studying a diverse range of subjects provides valuable insights into the  potential applications of technology , allowing me to approach problem-solving in unique ways and  improve people’s lives .
 
 **Delivering the future!**
