@@ -2,10 +2,8 @@
 layout: page
 title: Calglass: Smart Dietary Management Glasses
 description: Innovative wearable technology for healthy living
-img: assets/img/proj_calGlass/IMG3482.jpg
 importance: 1
 category: fun
-related_publications: true
 ---
 
 **Calglass** is a groundbreaking wearable device designed to help users achieve **better health through smart dietary management**. It was developed as a response to the growing number of people struggling to maintain healthy eating habits, with many mistakenly believing that **exercise alone** is the most effective way to stay fit. Calglass combines **computer vision** and **AI algorithms** to recognize foods and calculate **caloric content**, providing users with **actionable insights** to improve their diets.
