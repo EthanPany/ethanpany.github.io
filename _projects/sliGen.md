@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Power Writter
-description: Slide Generator power by on-device LLM for smart building system designers
+description: An Smart Building Design Slide Generator Based on RAG
 img: assets/img/proj_calGlass/IMG3482.jpg
 importance: 3
 category: work
