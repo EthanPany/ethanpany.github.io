@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.rochester.edu/'>University of Rochester</a>. Rochester, NY
+subtitle: <a href='https://www.cs.wisc.edu/'>University of Wisconsin-Madison</a>. Madison, WI
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>500 Joseph C. Wilson Blvd.</p>
-    <p>Rochester, NY 14627</p>
+    <p>832 Regent Street</p>
+    <p>Madison, WI 53715</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
