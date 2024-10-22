@@ -2,7 +2,7 @@
 layout: page
 title: Interactive Gaming: Our Home and What It Means to Us
 description: A heartfelt interactive experience exploring the meaning of home with AI support
-importance: 1
+importance: 5
 category: fun
 ---
 
