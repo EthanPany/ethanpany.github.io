@@ -1,13 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: Calglass: Smart Dietary Management Glasses
+description: Innovative wearable technology for healthy living
+img: assets/img/proj_calGlass/IMG3482.jpg
+importance: 1
 category: fun
 ---
-
-Change something to see
 
 **Calglass** is a groundbreaking wearable device designed to help users achieve **better health through smart dietary management**. It was developed as a response to the growing number of people struggling to maintain healthy eating habits, with many mistakenly believing that **exercise alone** is the most effective way to stay fit. Calglass combines **computer vision** and **AI algorithms** to recognize foods and calculate **caloric content**, providing users with **actionable insights** to improve their diets.
 
@@ -31,11 +29,6 @@ Calglass was built using a combination of hardware components:
         {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3483.jpg" title="Calglass Prototype in Use" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-- **Camera and Gyroscope**: These allow for **real-time image capture and stabilization** during food recognition.
-- **Raspberry Pi**: The main computing unit, which runs the **food recognition algorithms**.
-- **3D Modeling and Printing**: The frame of the glasses was custom-designed, **3D-printed**, and **assembled** by the team.
-
 
 - **Camera and Gyroscope**: These allow for **real-time image capture and stabilization** during food recognition.
 - **Raspberry Pi**: The main computing unit, which runs the **food recognition algorithms**.
@@ -88,3 +81,14 @@ The team aims to enhance Calglass by incorporating:
 - **Real-time body condition monitoring**, such as **heart rate** and **blood pressure**.
 - **Smart dietary recommendations** that consider factors like **weather**, **user activity**, and **location**.
 - **Exercise tracking** to offer a comprehensive health management experience.
+
+### Project Files and Media
+You can find the **detailed report** and **presentation slides** below:
+<a href="assets/pdf/proj_calGlass/CTB_CalGlass_Group_Final_Report.pdf">Final Report (PDF)</a>
+<a href="assets/pdf/proj_calGlass/Calglass_Presentation.pdf">Presentation Slides (PDF)</a>
+<a href="assets/pdf/proj_calGlass/Calglass_Presentation2.pdf">Presentation Slides2 (PDF)</a>
+
+#### Watch the Demonstration Video
+<iframe src="//player.bilibili.com/player.html?bvid=BV1dT4y1D7vb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+Calglass represents a **revolutionary step** towards making dietary management **more accessible and effective**. By merging **wearable technology** with **artificial intelligence**, the project aims to help users make **better lifestyle choices** effortlessly. Stay tuned as we continue to **refine and expand** this innovative solution!
