@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Interactive Gaming: Our Home and What It Means to Us
+title: Interactive Gaming
 description: A heartfelt interactive experience exploring the meaning of home with AI support
 img: assets/img/proj_home/Snipaste_2024-10-21_23-36-32.png
-importance: 1
+importance: 4
 category: fun
 ---
 
@@ -43,7 +43,7 @@ The project reflects on the notion that **home is not defined solely by its phys
 
 ### Download and Play
 The game is available for **free download**, inviting everyone to explore the concept of home and engage in meaningful conversations with the AI.  
-<a href="[assets/pdf/proj_home/FA4_Final_Reflection.pdf](https://drive.google.com/drive/folders/1wFjT5eIKtXbL5vjDKpq5hbbw0iChUZPb?usp=drive_link)">Download "Our Home and What It Means to Us)</a>
+[Download "Our Home and What It Means to Us"](https://drive.google.com/drive/folders/1wFjT5eIKtXbL5vjDKpq5hbbw0iChUZPb?usp=drive_link)
 
 ### Impact on Development Philosophy
 Working on this project significantly influenced the decision to explore the **intersection of technology and humanities**. The addition of AI as a **philosophical companion** was driven by a desire to make technology a tool for **addressing human concerns**. This approach showcases the potential for AI in gaming to go beyond mere gameplay and **tackle real-world issues** through **intelligent interaction**.
@@ -56,6 +56,5 @@ Working on this project significantly influenced the decision to explore the **i
 
 ### Project Files
 You can view additional project files and development notes:
-<a href="assets/pdf/proj_home/FA4_Final_Reflection.pdf">Reflection Document (PDF)</a>
 
 **Our Home and What It Means to Us** represents a unique approach to **interactive storytelling** and **AI integration**, aiming to blur the lines between **technology and the human experience**. Through this game, players can **reflect on life's complex questions** while interacting with a **philosophical AI** that helps **navigate personal conflicts and insights**.
