@@ -84,9 +84,9 @@ The team aims to enhance Calglass by incorporating:
 
 ### Project Files and Media
 You can find the **detailed report** and **presentation slides** below:
-- [Final Report (PDF)](assets/pdf/proj_calGlass/CTB_CalGlass_Group_Final_Report.pdf)
-- [Presentation Slides (PDF)](assets/pdf/proj_calGlass/Calglass_Presentation.pdf)
-- [Presentation Slides2 (PDF)](assets/pdf/proj_calGlass/Calglass_Presentation2.pdf)
+<a href="assets/pdf/proj_calGlass/CTB_CalGlass_Group_Final_Report.pdf">Final Report (PDF)</a>
+<a href="assets/pdf/proj_calGlass/Calglass_Presentation.pdf">Presentation Slides (PDF)</a>
+<a href="assets/pdf/proj_calGlass/Calglass_Presentation2.pdf">Presentation Slides2 (PDF)</a>
 
 #### Watch the Demonstration Video
 <iframe src="//player.bilibili.com/player.html?bvid=BV1dT4y1D7vb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
