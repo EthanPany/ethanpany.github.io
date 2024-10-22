@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Calglass: Smart Dietary Management Glasses
-description: Innovative wearable technology for healthy living
-img: assets/img/proj_calGlass/IMG3482.jpg
-importance: 1
+title: project 4
+description: another without an image
+img:
+importance: 3
 category: fun
 ---
+
+Change something to see
 
 **Calglass** is a groundbreaking wearable device designed to help users achieve **better health through smart dietary management**. It was developed as a response to the growing number of people struggling to maintain healthy eating habits, with many mistakenly believing that **exercise alone** is the most effective way to stay fit. Calglass combines **computer vision** and **AI algorithms** to recognize foods and calculate **caloric content**, providing users with **actionable insights** to improve their diets.
 
@@ -29,6 +31,11 @@ Calglass was built using a combination of hardware components:
         {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3483.jpg" title="Calglass Prototype in Use" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+- **Camera and Gyroscope**: These allow for **real-time image capture and stabilization** during food recognition.
+- **Raspberry Pi**: The main computing unit, which runs the **food recognition algorithms**.
+- **3D Modeling and Printing**: The frame of the glasses was custom-designed, **3D-printed**, and **assembled** by the team.
+
 
 - **Camera and Gyroscope**: These allow for **real-time image capture and stabilization** during food recognition.
 - **Raspberry Pi**: The main computing unit, which runs the **food recognition algorithms**.
@@ -66,4 +73,3 @@ The Calglass project was a collaborative effort, with team members specializing 
 - **Betty**: Write posts and **documentation**, conduct related research and presentation preparation.
 - **Feil**: Conduct related research and social media promotion.
 - **Lorenzo**: Peer-tutoring, providing guidance and support to team members.
-
