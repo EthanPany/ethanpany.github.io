@@ -4,7 +4,7 @@ title: Calglass: Smart Dietary Management Glasses
 description: Innovative wearable technology for healthy living
 img: assets/img/proj_calGlass/IMG3482.jpg
 importance: 1
-category: health-tech
+category: fun
 related_publications: true
 ---
 

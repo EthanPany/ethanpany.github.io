@@ -4,7 +4,7 @@ title: Interactive Gaming: Our Home and What It Means to Us
 description: A heartfelt interactive experience exploring the meaning of home with AI support
 img: assets/img/proj_home/Snipaste_2024-10-21_23-36-32.png
 importance: 1
-category: interactive-gaming
+category: fun
 related_publications: true
 ---
 
