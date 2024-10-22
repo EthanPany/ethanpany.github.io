@@ -60,8 +60,4 @@ Working on this project significantly influenced the decision to explore the **i
     </div>
 </div>
 
-### Project Files
-
-You can view additional project files and development notes:
-
 **Our Home and What It Means to Us** represents a unique approach to **interactive storytelling** and **AI integration**, aiming to blur the lines between **technology and the human experience**. Through this game, players can **reflect on life's complex questions** while interacting with a **philosophical AI** that helps **navigate personal conflicts and insights**.

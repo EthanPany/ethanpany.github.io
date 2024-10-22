@@ -82,3 +82,17 @@ The team aims to enhance Calglass by incorporating:
 - **Smart dietary recommendations** that consider factors like **weather**, **user activity**, and **location**.
 - **Exercise tracking** to offer a comprehensive health management experience.
 
+### Project Files and Media
+
+You can find the **detailed report** and **presentation slides** below:
+
+- [Final Report (PDF)](assets/pdf/proj_calGlass/CTB_CalGlass_Group_Final_Report.pdf)
+- [Presentation Slides (PDF)](assets/pdf/proj_calGlass/Calglass_Presentation.pdf)
+
+#### Watch the Demonstration Video
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1dT4y1D7vb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+---
+
+Calglass represents a **revolutionary step** towards making dietary management **more accessible and effective**. By merging **wearable technology** with **artificial intelligence**, the project aims to help users make **better lifestyle choices** effortlessly. Stay tuned as we continue to **refine and expand** this innovative solution!
