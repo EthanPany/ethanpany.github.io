@@ -7,83 +7,76 @@ importance: 3
 category: fun
 ---
 
-**Calglass** is a groundbreaking wearable device designed to help users achieve **better health through smart dietary management**. It was developed as a response to the growing number of people struggling to maintain healthy eating habits, with many mistakenly believing that **exercise alone** is the most effective way to stay fit. Calglass combines **computer vision** and **AI algorithms** to recognize foods and calculate **caloric content**, providing users with **actionable insights** to improve their diets.
+Change something to see
 
-### Inspiration
-The idea for Calglass originated from the observation that **unhealthy eating habits** contribute significantly to conditions like **obesity** and **heart disease**. The team noticed that existing dietary management solutions, such as **mobile apps**, often require extensive manual input and can be inaccurate. Inspired by this gap, Calglass aims to offer a **more efficient, real-time solution** by automatically analyzing food intake through wearable glasses.
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
-### Development Journey
-#### Early Stages
-The project began with extensive **research and brainstorming**, aiming to find a practical way to integrate **AI** into dietary management. The team recognized that using a **wearable device** could provide the **convenience and real-time analysis** needed to help people make healthier choices effortlessly.
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-### Hardware
-Calglass was built using a combination of hardware components:
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3493.jpg" title="3D Model of Calglass" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3482.jpg" title="Calglass Prototype" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3483.jpg" title="Calglass Prototype in Use" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-- **Camera and Gyroscope**: These allow for **real-time image capture and stabilization** during food recognition.
-- **Raspberry Pi**: The main computing unit, which runs the **food recognition algorithms**.
-- **3D Modeling and Printing**: The frame of the glasses was custom-designed, **3D-printed**, and **assembled** by the team.
-
-### Software
-The software development involved:
-- **YOLO (You Only Look Once) Algorithm**: Used for **object detection** to recognize different types of food in real time.
-- **Data Processing**: After detection, the system estimates the **caloric content** and **nutritional information** of the identified food.
-- **Web Interface**: A companion website displays the data, allowing users to **track their dietary habits**, **view historical data**, and receive **meal suggestions**.
-
-### Achievements and Testing
+<div class="caption">
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3484.jpg" title="Testing the Prototype" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3485.jpg" title="Captured Image Analysis" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj_calGlass/IMG3427.jpg" title="Calglass Team Members" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
-Through rigorous testing, the team achieved:
-- **Over 70% accuracy** in identifying various types of fruits, with plans to increase this rate through further software optimization.
-- Integration with the web platform, enabling users to **receive meal recommendations** based on their dietary history.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-### Teamwork and Contributions
-The Calglass project was a collaborative effort, with team members specializing in different aspects of the development:
-- **Ethan**: Handled the **hardware assembly**, including **3D modeling**, **Raspberry Pi setup**, and **software configuration**.
-- **Scott**: Developed the code for the **camera's image capture** and implemented **color-based filtering** techniques to improve food recognition.
-- **Paul**: Focused on the **algorithm development**, processing the filtered images to determine **caloric values** based on **color ratios**.
-- **Melody**: Conduct related research, write survey questions, and analyze the data.
-- **Betty**: Write posts and **documentation**, conduct related research and presentation preparation.
-- **Feil**: Conduct related research and social media promotion.
-- **Lorenzo**: Peer-tutoring, providing guidance and support to team members.
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
 
-![The Development Team](assets/img/proj_calGlass/IMG3428.jpg)
+The code is simple.
+Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
+To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
+Here's the code for the last row of images above:
 
-### Future Vision
-The team aims to enhance Calglass by incorporating:
-- **Real-time body condition monitoring**, such as **heart rate** and **blood pressure**.
-- **Smart dietary recommendations** that consider factors like **weather**, **user activity**, and **location**.
-- **Exercise tracking** to offer a comprehensive health management experience.
+{% raw %}
 
-### Project Files and Media
-You can find the **detailed report** and **presentation slides** below:
-- [Final Report (PDF)](assets/pdf/proj_calGlass/CTB_CalGlass_Group_Final_Report.pdf)
-- [Presentation Slides (PDF)](assets/pdf/proj_calGlass/Calglass_Presentation.pdf)
-- [Presentation Slides2 (PDF)](assets/pdf/proj_calGlass/Calglass_Presentation2.pdf)
+```html
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+```
 
-#### Watch the Demonstration Video
-<iframe src="//player.bilibili.com/player.html?bvid=BV1dT4y1D7vb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
----
-
-Calglass represents a **revolutionary step** towards making dietary management **more accessible and effective**. By merging **wearable technology** with **artificial intelligence**, the project aims to help users make **better lifestyle choices** effortlessly. Stay tuned as we continue to **refine and expand** this innovative solution!
+{% endraw %}
