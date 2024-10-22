@@ -43,21 +43,3 @@ The project reflects on the notion that **home is not defined solely by its phys
 
 ### Download and Play
 The game is available for **free download**, inviting everyone to explore the concept of home and engage in meaningful conversations with the AI.  
-[Download "Our Home and What It Means to Us"](https://drive.google.com/drive/folders/1wFjT5eIKtXbL5vjDKpq5hbbw0iChUZPb?usp=drive_link)
-
-### Impact on Development Philosophy
-Working on this project significantly influenced the decision to explore the **intersection of technology and humanities**. The addition of AI as a **philosophical companion** was driven by a desire to make technology a tool for **addressing human concerns**. This approach showcases the potential for AI in gaming to go beyond mere gameplay and **tackle real-world issues** through **intelligent interaction**.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj_home/Snipaste_2024-10-21_23-45-25.png" title="Thoughts on Home" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-### Project Files
-You can view additional project files and development notes:
-- [Reflection Document (PDF)](assets/pdf/proj_home/FA4_Final_Reflection.pdf)
-
----
-
-**Our Home and What It Means to Us** represents a unique approach to **interactive storytelling** and **AI integration**, aiming to blur the lines between **technology and the human experience**. Through this game, players can **reflect on life's complex questions** while interacting with a **philosophical AI** that helps **navigate personal conflicts and insights**.
