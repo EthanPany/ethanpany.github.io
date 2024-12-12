@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Power Writter
+title: Power Writer
 description: An Smart Building Design Slide Generator Based on RAG
 img: assets/img/proj_sliGen/11-31-38-0002.png
 importance: 3
@@ -8,6 +8,10 @@ category: work
 ---
 
 **Power Writer** is a smart tool developed to automate the creation of slide decks for design projects. The tool helps streamline the process of generating presentations by using AI to create structured content based on user inputs, thus saving time and ensuring a professional layout.
+
+### Demo Video
+
+<iframe id="kaltura_player" src='https://cdnapisec.kaltura.com/p/1660902/embedPlaykitJs/uiconf_id/55063182?iframeembed=true&amp;entry_id=1_w4snuodx&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_p69nor2g%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D'  style="width: 1024px;height: 576px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *"  title="24Summer Interen Demo-Up to 4K"></iframe>
 
 ### Inspiration
 
@@ -82,7 +86,7 @@ Future plans for Power Writer include:
 
 You can find the **detailed report** below:
 
-<a href="../../assets/pdf/proj_sliGen/PowerWriter_Final_Report.pdf">`Final Report (PDF)`</a>
+<a href="../../assets/pdf/proj_sliGen/PowerWriter_Final_Report.pdf">Final Report (PDF)``</a>
 
 ---
 
