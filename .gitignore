@@ -10,5 +10,3 @@ Gemfile.lock
 assets/libs/
 node_modules/
 vendor
-Gemfile
-Gemfile.lock
