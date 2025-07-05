@@ -1,34 +1,17 @@
 ---
 layout: page
-title: Interactive Gaming
-description: A heartfelt interactive experience exploring the meaning of home with AI support
+title: Our Home
+description: An interactive game that explores the meaning of home with the help of a philosophical AI.
 img: assets/img/proj_home/Snipaste_2024-10-21_23-44-18.png
 importance: 4
 category: fun
 ---
 
-**Our Home and What It Means to Us** is an interactive game that explores the concept of **home and belonging**, now enhanced with **AI integration**. The project delves into the different ways that **home can be experienced**, not just as a physical space but also as a feeling of **comfort, support, and identity**. The game encourages players to **reflect on their own experiences** of home through an engaging, story-driven experience, enriched with **philosophical AI dialogues**.
+**Our Home** is not just a game; it's a conversation. It's an exploration of what "home" truly means, especially for those of us who find ourselves far from the places and people we love. As an international student, I felt the pang of homesickness and the complexities of family relationships, and I wanted to create something that could help bridge that distance.
 
-### AI Integration: Exploring the Intersection of Technology and Humanities
+### A Virtual Space for Reflection
 
-In an effort to fuse **artificial intelligence** with **interactive gaming**, the game now features an AI-powered **philosophical agent**. This agent uses a **language model (LLM)** to provide **real-time advice** and **reflective dialogue** based on the player's interactions. Players can engage in conversations with the AI, which acts as a **philosopher-like character**, offering insights and guidance on **family problems** and other personal conflicts. This addition aims to bridge the gap between **technology and humanities**, using AI as a tool to address **complex human issues**.
-
-The integration was inspired by the desire to **make AI more meaningful** in the context of gaming, transforming the game from just a visual experience into an **interactive dialogue** that helps players explore deeper **philosophical questions** about **family, home,** and **personal growth**.
-
-### Development Process
-
-The project evolved through several stages:
-
-- **Initial Concept**: The game began as a way to explore the concept of home through **interactive storytelling**, where players could connect with everyday objects that symbolize aspects of home.
-- **AI Integration**: In **Dec. 2023 – Jan. 2024**, a significant update introduced the **GPT-powered AI** agent into the game. The AI can generate **real-time poetry**, offer **philosophical insights**, and respond to player inputs, deepening the emotional and reflective aspects of the game.
-- **Technology Used**: The integration was implemented using **Unity (3D game engine), C#**, and **ChatGPT's API**, showcasing how modern AI can be combined with gaming to **enhance player experiences**.
-
-### Features
-
-- **Exploration of Everyday Objects**: Players navigate a series of rooms, each containing objects that **represent different aspects of home**. These items trigger **memories and emotions**, creating a personal connection for the player.
-- **AI-powered Philosophical Agent**: Players can converse with the AI character, which provides **real-time advice** on **family conflicts** or **life reflections**, acting as a virtual philosopher.
-- **Narrative and Poetry Generation**: The AI can generate **custom poetry** and **reflective dialogues**, making each player's experience unique based on their interactions.
-- **Atmospheric Sound Design**: The soundscape adds to the immersive environment, enhancing the game's emotional depth.
+The game invites you into a 3D space that feels like a dorm room, filled with objects that hold special meaning. Each object is a metaphor, a trigger for a memory or a feeling. But the heart of the experience is the **AI philosopher**, a conversational agent designed to talk with you about your life, your family, and your relationships. It's a space to reflect, to understand, and to find a bit of home within yourself.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,22 +21,22 @@ The project evolved through several stages:
         {% include figure.liquid loading="eager" path="assets/img/proj_home/Snipaste_2024-10-21_23-37-38.png" title="Interactive Objects" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj_home/Snipaste_2024-10-21_23-44-18.png" title="Philosophical AI Agent" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/proj_home/Snipaste_2024-10-21_23-44-18.png" title="The Philosophical AI Agent" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-### Meaning of Home
+### A Journey of Learning and Creation
 
-The project reflects on the notion that **home is not defined solely by its physical boundaries**. It is a **feeling of safety**, a **sense of identity**, and a place where one can **be themselves without fear of judgment**. Through AI-driven dialogues, players are invited to **explore philosophical questions** and **reflect on their personal experiences**, making the game both a **digital companion** and an **emotional journey**.
+This project was a personal journey of discovery. I taught myself **3D game design** and **Unity** from scratch, learned **C#** to script the game's interactions, and integrated the **OpenAI API** to bring the AI philosopher to life. It was my first time working with these technologies, and the result was a working demo that I was proud to share.
+
+### Achievements and Impact
+
+**Our Home** was more than just a personal project. It was my final project for a writing class, and it earned a **full score**. I also showcased it at an on-campus exhibition, where over 20 people tried it and gave me their feedback. It was incredible to see how the game resonated with others and sparked meaningful conversations.
 
 ### Download and Play
 
-The game is available for **free download**, inviting everyone to explore the concept of home and engage in meaningful conversations with the AI.
-[Download &#34;Our Home and What It Means to Us&#34;](https://drive.google.com/drive/folders/1wFjT5eIKtXbL5vjDKpq5hbbw0iChUZPb?usp=drive_link)
-
-### Impact on Development Philosophy
-
-Working on this project significantly influenced the decision to explore the **intersection of technology and humanities**. The addition of AI as a **philosophical companion** was driven by a desire to make technology a tool for **addressing human concerns**. This approach showcases the potential for AI in gaming to go beyond mere gameplay and **tackle real-world issues** through **intelligent interaction**.
+The game is available for **free download**. I invite you to explore the space, interact with the objects, and have a conversation with the AI philosopher.
+[Download "Our Home and What It Means to Us"](https://drive.google.com/drive/folders/1wFjT5eIKtXbL5vjDKpq5hbbw0iChUZPb?usp=drive_link)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,4 +44,4 @@ Working on this project significantly influenced the decision to explore the **i
     </div>
 </div>
 
-**Our Home and What It Means to Us** represents a unique approach to **interactive storytelling** and **AI integration**, aiming to blur the lines between **technology and the human experience**. Through this game, players can **reflect on life's complex questions** while interacting with a **philosophical AI** that helps **navigate personal conflicts and insights**.
+This project taught me that technology can be a powerful tool for exploring the human experience. It's not just about creating something functional, but about creating something that can connect with people on an emotional level.
