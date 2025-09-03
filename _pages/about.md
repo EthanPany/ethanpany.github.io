@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>832 Regent Street</p>
+    <p>750 Regent Street</p>
     <p>Madison, WI 53715</p>
 
 news: true # includes a list of news items
