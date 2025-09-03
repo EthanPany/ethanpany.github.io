@@ -31,10 +31,12 @@ I believe that studying a **diverse range of subjects** provides valuable insigh
 
 **Delivering the future!** -->
 
-I’m a junior studying Computer Science (B.S.) at the University of Wisconsin-Madison. I have a broad interest in natural language processing (NLP), with a research goal of exploring the capabilities and limitations of current models. I’m also passionate about finding innovative ways to integrate artificial intelligence into various fields and tackling traditional tasks that are challenging for computers.
+Hi! I’m a rising junior studying Computer Science (B.S.) at the University of Wisconsin-Madison. I have a broad interest in natural language processing (NLP), with a research goal of exploring the capabilities and limitations of current models. I’m also passionate about finding innovative ways to integrate artificial intelligence into various fields and tackling traditional tasks that are challenging for computers.
+
+I'm currently working as an undergraduate student researcher at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/). I'm also collaborating closely with [Lorenzo Xiao](https://algoroxyolo.github.io) on NLP research focused on anthropomorphism. Additionally, I work as a researcher at startup Nodetree.io and am the founder of SolarFlow, a startup team developing an AI-powered file organization solution. 
 
 Beyond computer science, I’m interested in astronomy, brain and cognitive science, and philosophy —subjects that I’m currently exploring through my coursework. I plan to double major in Computer Engineering, aiming to expand my technical expertise. My extracurricular activities include movie production, 3D computer graphics, and IoT projects, all of which fuel my creativity and problem-solving skills.
 
-I believe studying a diverse range of subjects provides valuable insights into technology's potential applications, allowing me to approach problem-solving in unique ways and improve people’s lives.
+I believe studying a diverse range of subjects provides valuable insights into technology's potential applications, allowing me to approach problem-solving in unique ways and improve people's lives.
 
-**Delivering the future!**
+**Want to chat?** [Book a meeting with me](https://calendar.app.google/CKbcFqgMTNzMeR2g8) to discuss research, projects, or collaboration opportunities.

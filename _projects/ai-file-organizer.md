@@ -1,32 +1,68 @@
 ---
 layout: page
-title: AI File Organizer
-description: An intelligent assistant that learns how you organize files and does the work for you.
+title: SolarFlow: AI-Powered File Organization
+description: An intelligent file management system that understands your content and organizes files the way you would.
 img: # A placeholder for the image, can be updated later
 importance: 5
 category: work
 ---
 
-We've all been there: a downloads folder overflowing with a chaotic mix of documents, images, and code. It's a digital mess that's a pain to clean up. That's why I started the **AI File Organizer** project—to create a smart assistant that can learn your organizational style and automatically tidy up your files for you.
+How does your downloads folder look? If it's a chaotic mix of documents, images, and random files, SolarFlow is here to solve that problem. We're building an AI-powered file organizer that doesn't just sort by file type—it understands content and context to create a personalized, intuitive file system.
 
-### The Challenge: Beyond Simple Rules
+### The Problem We're Solving
 
-Existing file organizers often rely on basic rules like file type or name, but that's not how we think. We organize based on content and context. The challenge was to build a tool that could understand the *semantic meaning* of a file and organize it in a way that makes sense to *you*.
+File management is tedious and time-consuming. Traditional systems rely on arbitrary rules that don't match how we actually think about our files. File search isn't as good as it could be, and maintaining organization requires constant manual effort.
 
-### A Collaboration with OpenAI
+### Our Solution: SolarFlow
 
-This project is part of a special program at the **University of Wisconsin-Madison** in collaboration with **OpenAI**. As the leader of a team of three, I am driving the vision and development of this intelligent tool. My focus is on the core NLP pipeline: building a vector database to represent file content, extracting and summarizing information, and clustering files based on their meaning. We're not just building a file organizer; we're teaching a machine to understand and adapt to human behavior.
+SolarFlow uses OpenAI's tools to automate file management by creating a human-readable file system tailored to each user. We provide robust search functionality using file metadata and AI-generated summaries, making it easy to find any file—even when you can't remember its name.
 
-### The Technology Behind the Magic
+### Core Features
 
-We're using a cutting-edge stack to bring this project to life:
+**Moonsword** - Our sorting agent that dives deep into every file, regardless of format, understanding content and generating intelligent summaries.
 
-- **Python**: The backbone of our application.
-- **LangChain & LiteLLM**: For orchestrating complex workflows with large language models.
-- **OpenAI**: Leveraging their powerful models for content understanding.
-- **PyTorch**: For machine learning tasks and building our vector database.
-- **SQLite & Pydantic**: For robust data management.
+**Neutron Store** - A specialized database that stores all file information, including text embeddings and metadata for lightning-fast retrieval.
 
-### The Future is Organized
+**Supernova** - The file organizing agent that uses database information to understand user preferences and sort files the way you would.
 
-The AI File Organizer is an ongoing project with a bold vision: to make file management effortless. We're just getting started, but we're excited about the potential to create a tool that can learn, adapt, and bring a little more order to our digital lives. 
+**Lightspeed Search** - Super-fast vector search that lets you find files based on content, not just filename.
+
+### Technology Stack
+
+**Backend (Python)**
+- FastAPI for core web framework
+- Processing, database integration, and vectorization
+- ChatGPT-4o Nano for text and image processing
+- Whisper for audio/video transcription
+- Text Embedding 3 for generating embeddings
+
+**Frontend (Swift/SwiftUI)**
+- Native macOS interface with responsive design
+- Direct Finder integration
+- Real-time notifications for processing status
+
+### Privacy & Security First
+
+We prioritize user control and privacy:
+- Only scan files from directories you choose
+- Option to run models locally for privacy-conscious users
+- System and hidden files are automatically ignored
+- Full transparency in what files are processed
+
+### OpenAI Collaboration
+
+This project is part of a special program at the University of Wisconsin-Madison in collaboration with OpenAI. As team leader, I'm driving the vision while conducting research on benchmarking LLM file organization capabilities—work we plan to publish as an academic paper.
+
+**Interested in being an early user?** We're currently recruiting participants for our user study to help improve SolarFlow's organization algorithms.
+
+### Project Videos
+
+**Team Presentation**
+<iframe src="https://mediaspace.wisc.edu/embed/secure/iframe/entryId/1_cdv8t09g/uiConfId/21415062" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+**Live Demo**
+<iframe src="https://mediaspace.wisc.edu/embed/secure/iframe/entryId/1_pbky05lw/uiConfId/21415062" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+**Folder Icon Demo**
+<iframe src="https://mediaspace.wisc.edu/embed/secure/iframe/entryId/1_cy7zim4n/uiConfId/21415062" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
