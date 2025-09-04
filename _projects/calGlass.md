@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cal-Glass
-description: A wearable device that sees what you eat and helps you build a healthier lifestyle.
+title: Cal-Glass 
+description: (Health Monitoring Wearable) A wearable device that sees what you eat and helps you build a healthier lifestyle.
 img: assets/img/proj_calGlass/IMG3482.jpg
 importance: 3
 category: fun

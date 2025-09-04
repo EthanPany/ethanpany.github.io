@@ -1,13 +1,20 @@
 ---
 layout: page
-title: Damaku-manager
-description: A Chrome Extension to bring the fun of real-time commentary to YouTube.
-img: # A placeholder for the image, can be updated later
+title: Damaku-manager 
+description: (Chrome Extension) A Chrome Extension to bring the fun of real-time commentary to YouTube.
+img: assets/img/proj_damaku/Screenshot 2025-09-03 at 18.41.05.png
 importance: 4
 category: fun
 ---
 
 **Damaku-manager** is a passion project born from a love of a unique online video culture. In many parts of Asia, video platforms feature "Danmaku," a real-time commentary system where viewer comments fly across the screen. It creates a lively, shared experience that I felt was missing from YouTube. So, I decided to build it myself.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/proj_damaku/Screenshot 2025-09-03 at 18.41.05.png" title="Chrome Web Store Page Screenshot" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ### Bridging Cultures with Code
 
@@ -29,3 +36,7 @@ It was incredibly rewarding to see that other people enjoyed the feature as much
 ### What's Next?
 
 This project is just the beginning. I plan to expand the extension to other video platforms and add more customization options to give users more control over their Danmaku experience. It's a fun project that I'm excited to keep improving. 
+
+Download: [Chrome Web Store](https://chromewebstore.google.com/detail/youtube%E2%86%92b%E7%AB%99%E5%BC%B9%E5%B9%95/nkfcfgjlamclkjdcbkpgfeldeogchihi)
+
+Source code: [Github](https://github.com/EthanPany/YouTube-Danmaku-Overlay-Chrome-Extension)

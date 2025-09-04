@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Our Home
-description: An interactive game that explores the meaning of home with the help of a philosophical AI.
+title: Our Home 
+description: (Unity Game) An interactive game that explores the meaning of home with the help of a philosophical AI.
 img: assets/img/proj_home/Snipaste_2024-10-21_23-44-18.png
 importance: 4
 category: fun

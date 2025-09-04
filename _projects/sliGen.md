@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Power Writer
-description: An AI-powered slide generator that turns tedious work into a five-minute task.
+description: (Full Stack with Python) An AI-powered slide generator that turns tedious work into a five-minute task.
 img: assets/img/proj_sliGen/11-31-38-0002.png
 importance: 3
 category: work
