@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ethan
 middle_name:
 last_name: Pan
-email: epan@cs.wisc.edu
+email: yp3142@nyu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple personal page. 
   # A simple personal page. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -104,6 +104,7 @@ wechat_qr: wechat-qr.jpg # filename of your wechat qr-code saved as an image (e.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
+devpost_url: https://devpost.com/EthanPany # your Devpost profile URL
 work_url: # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
