@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Ethan Pan",
-    "label": "CS B.S. @University of Wisconsin Madison",
+    "label": "CS B.S. | Visiting NYU",
     "image": "",
     "email": "epan@cs.wisc.edu",
     "phone": "+1(585)-210-6589",
     "url": "https://ethanpany.github.io",
-    "summary": "A CS student at the University of Wisconsin-Madison with a passion for building intelligent systems and a strong foundation in software engineering and artificial intelligence. Experienced in developing applications with large language models, leading research projects, and contributing to startup environments. Seeking to leverage skills in Python, Java, and AI to solve challenging problems.",
+    "summary": "A junior CS student currently visiting New York University, with research interests in natural language processing (NLP) and human-computer interaction (HCI). Experienced in developing applications with large language models, leading research projects, and contributing to startup environments. Actively seeking research lab positions and collaboration opportunities.",
     "location": {
       "countryCode": "US",
       "address": "United States"

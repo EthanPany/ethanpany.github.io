@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cs.wisc.edu/'>University of Wisconsin-Madison</a>. Madison, WI
+subtitle: Visiting <a href='https://cs.nyu.edu/'>New York University</a>. New York, NY
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>750 Regent Street</p>
-    <p>Madison, WI 53715</p>
+    <p>New York, NY</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -31,12 +30,10 @@ I believe that studying a **diverse range of subjects** provides valuable insigh
 
 **Delivering the future!** -->
 
-Hi! I’m a rising junior studying Computer Science (B.S.) at the University of Wisconsin-Madison. I have a broad interest in natural language processing (NLP), with a research goal of exploring the capabilities and limitations of current models. I’m also passionate about finding innovative ways to integrate artificial intelligence into various fields and tackling traditional tasks that are challenging for computers.
+Hi! I'm a junior studying Computer Science (B.S.), currently visiting New York University. My research interests are in natural language processing (NLP) and human-computer interaction (HCI). I'm actively looking for research labs and collaboration opportunities.
 
-I'm currently working as an undergraduate student researcher at the [People and Robots Laboratory](https://peopleandrobots.wisc.edu/). I'm also collaborating closely with [Lorenzo Xiao](https://algoroxyolo.github.io) on NLP research focused on anthropomorphism. Additionally, I work as a researcher at startup Nodetree.io and am the founder of SolarFlow, a startup team developing an AI-powered file organization solution. 
+I'm collaborating closely with [Lorenzo Xiao](https://algoroxyolo.github.io) on NLP research focused on anthropomorphism. I also work as a researcher at startup Nodetree.io and am the founder of SolarFlow, a startup team developing an AI-powered file organization solution.
 
-Beyond computer science, I’m interested in astronomy, brain and cognitive science, and philosophy —subjects that I’m currently exploring through my coursework. My extracurricular activities include movie production, 3D computer graphics, and IoT projects.
-
-I believe studying a diverse range of subjects provides valuable insights into technology's potential applications, allowing me to approach problem-solving in unique ways and improve people's lives.
+Beyond computer science, I'm interested in astronomy, brain and cognitive science, and philosophy. My extracurricular activities include movie production, 3D computer graphics, and IoT projects.
 
 **Want to chat?** [Book a meeting with me](https://calendar.app.google/CKbcFqgMTNzMeR2g8) to discuss research, projects, or collaboration opportunities.
