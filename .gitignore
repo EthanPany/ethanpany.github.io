@@ -10,8 +10,4 @@ Gemfile.lock
 assets/libs/
 node_modules/
 vendor
-Gemfile
-Gemfile.lock
-package-lock.json
-yarn.lock
-Gemfile.lock
+.idea
