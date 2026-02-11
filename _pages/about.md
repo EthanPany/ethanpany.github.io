@@ -32,7 +32,7 @@ I believe that studying a **diverse range of subjects** provides valuable insigh
 
 Hi! I'm a junior studying Computer Science (B.S.), currently visiting New York University. My research interests are in natural language processing (NLP) and human-computer interaction (HCI). I'm actively looking for research labs and collaboration opportunities.
 
-I'm collaborating closely with [Lorenzo Xiao](https://algoroxyolo.github.io) on NLP research focused on anthropomorphism. I also work as a researcher at startup Nodetree.io and am the founder of SolarFlow, a startup team developing an AI-powered file organization solution.
+I'm a member of the [COPHEE Lab](https://cophee-lab.com) at NYU, led by Prof. Vedant Das Swain. I'm also collaborating closely with [Lorenzo Xiao](https://algoroxyolo.github.io) on NLP research focused on anthropomorphism. Additionally, I work as a researcher at startup Nodetree.io and am the founder of SolarFlow, a startup team developing an AI-powered file organization solution.
 
 Beyond computer science, I'm interested in astronomy, brain and cognitive science, and philosophy. My extracurricular activities include movie production, 3D computer graphics, and IoT projects.
 
