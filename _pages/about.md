@@ -6,7 +6,7 @@ subtitle: Visiting <a href='https://cs.nyu.edu/'>New York University</a>. New Yo
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yp3142@nyu.edu-f2402098.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Brooklyn, NY 11233</p>
